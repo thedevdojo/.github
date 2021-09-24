@@ -2,6 +2,8 @@
 
 The Dev Community where we can all create, learn, and grow together.
 
+![DevDojo.com](https://user-images.githubusercontent.com/21223421/134694899-ff7b4284-7e44-41aa-9b5b-aae968353cf4.png)
+
 ## 🍿 Resources
 
 Below you will find links to many of the Pro resources 🙌
@@ -33,6 +35,10 @@ Below you will find links to many of the Pro resources 🙌
 ### 📜 Laravel Scripts
 
 [Projects to help you learn and build](https://devdojo.com/scripts)
+
+### 🕸 DevBlog
+
+[Blogging platform created for developers](https://devdojo.com/devblog)
 
 ### 📺 Courses and Videos
 
