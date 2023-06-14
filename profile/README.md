@@ -2,7 +2,7 @@
 
 The Dev Community where we can all create, learn, and grow together.
 
-![DevDojo.com](https://imgur.com/h6ZbJhZ.png)
+![DevDojo.com](https://cdn.devdojo.com/images/june2023/devdojo-website.jpeg)
 
 ## 🍿 Resources
 
